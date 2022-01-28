@@ -18,5 +18,4 @@ Hi, I'm David. I'm a software engineer currently working at AWS. Currently I'm b
 
 **Elsewhere**
 
-[mayilian](https://github.com/mayilian) on GitHub; [qaxvor](https://www.instagram.com/qaxvor) on Instagram; [david](https://www.linkedin.com/in/david-mayilian-53b01561/) on Linkedin; 
-[davidmailian](https://soundcloud.com/davidmailian) on SoundCloud and [21tjyzlty4sbl63f5gp5xb7gq](https://open.spotify.com/user/21tjyzlty4sbl63f5gp5xb7gq) on Spotify.
+[mayilian](https://github.com/mayilian) on GitHub; [lifeundbananas](https://www.instagram.com/lifeundbananas) on Instagram; [david](https://www.linkedin.com/in/david-mayilian-53b01561/) on Linkedin and [davidmailian](https://soundcloud.com/davidmailian) on SoundCloud
