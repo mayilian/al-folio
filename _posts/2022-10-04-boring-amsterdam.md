@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Amsterdam is boring?
+title: Why is Amsterdam boring?
 date: 2022-10-04 00:50:00
 description: 
 ---
