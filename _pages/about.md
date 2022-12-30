@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address:
 
 news: false  # includes a list of news items
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm David. I'm a software engineer currently working at AWS. Currently I'm based in Amsterdam. This place is for communicating my thoughts and projects to the world.
+Hi, I'm David. I'm a software engineer @ AWS Amsterdam. This blog is a platform for me to document and share my thoughts, experiences, and insights with others.
 
 **Elsewhere**
 
