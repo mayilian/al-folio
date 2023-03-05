@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm David. I'm a software engineer @ AWS Amsterdam. This blog is a platform for me to document and share my thoughts, experiences, and insights with others.
+Hi, I'm David. I'm a software engineer @ AWS Amsterdam. This blog is a platform for me to document and share my thoughts, experiences, and insights with others. *Opinions Are My Own*.
 
 **Elsewhere**
 
