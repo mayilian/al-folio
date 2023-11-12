@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Matt Luker) The Missing Pirate Manual - Sailing the Peculiar Seas for Fun and Profit!
+title: The Missing Pirate Manual
 date: 2023-11-12 00:00:00
 description: 
 ---
