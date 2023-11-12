@@ -5,9 +5,9 @@ date: 2023-11-12 00:00:00
 description: 
 ---
 
-Recently, I have revisited [Matt Luker](https://twitter.com/codingmonk)'s internal Amazon presentation about "The Missing Pirate Manual". This presentation is renowned and highly regarded among Amazon folks. If you are still at Amazon and have not yet watched it, I strongly recommend doing so.
+Recently, I revisited [Matt Luker](https://twitter.com/codingmonk)'s internal Amazon presentation about "The Missing Pirate Manual" for Amazonians. This presentation is renowned and highly regarded among Amazon folks. If you are still at Amazon and haven't yet watched it, I strongly recommend doing so.
 
-I have not come across any publicly available articles discussing it (and I believe the talk itself is not available to the public). So I decided to share some of its important highlights here. This blog post is not centered around Amazon but rather focuses on insights that can nurture your mindset, proving beneficial regardless of what you do.
+I haven't come across any publicly available articles mentioning it (and I believe the talk itself is not available outside of Amazon). So I feel that it's worth it to share some of its important highlights for a broader audience. This blog post is not centered around Amazon but rather focuses on insights that can nurture your mindset and be useful regardless of what you do.
 
 Rather than providing a detailed summary of the presentation, I chose to share inspirational quotes that capture the essence of the talk, accompanied by additional comments from me.
 
