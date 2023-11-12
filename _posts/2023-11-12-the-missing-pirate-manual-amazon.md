@@ -15,7 +15,7 @@ Rather than providing a detailed summary of the presentation, I chose to share i
 
 **A Pirate's Guide to Success in Chaos**
 
-David's thought: *Chaos can take a toll sometimes and is a recipe for burnout, but I agree with the message here and would like this to be as close to reality as possible*
+David's thought: *Chaos can take a toll sometimes and is a recipe for burnout, but I agree with the message here and I would at least like this to be as close to the original intentions as possible*
 
 Matt:
 >What I want to discuss is working at a company like Amazon, one of the most valuable tech companies on the planet. You come with certain expectations, right? Working at Amazon is a big deal; it's not like working at some no-name place your grandma doesn't know about anymore. She says, "Oh, Amazon! I bought stuff from Amazon." You respond, "Yeah, that's right. That's where I work." So, we come with expectations, and what kind of expectations are those? I'd say it's something like this: We expect to work on an amazing space battleship flying through space, discovering new planets, doing incredible things—a well-oiled machine, everyone pulling in the same direction. How could it not be, right? Amazon has so many resources; that's what we expect.
