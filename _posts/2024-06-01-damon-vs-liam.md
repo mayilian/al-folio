@@ -16,7 +16,7 @@ For Liam, there's not much to say. His post-Oasis projects are exactly the same 
 
 It's hard to say if Liam could have done better. It's more likely that he simply couldn't. **This also emphasizes the deception that two figures can be mistakenly thought to belong to the same league initially, when in reality they are entirely different beasts** (deserves a separate post).
 
-Somewhat cliché but crucial to internalize, the main observation is that to remain relevant, one must consistently explore new creative paths. This principle applies not only to artists but also to anyone striving for lasting success and growth in their field. Though, I'm not sure exactly how one should apply this observation to their lives. However, being aware of the signs of stagnation and making an effort to combat it offers a chance to avoid falling into it, even though the battle may often be lost.
+Somewhat cliché but crucial to internalize, the main observation is that to remain relevant, one must consistently explore new creative paths. This principle applies not only to artists but also to anyone striving for lasting success and growth in their field. Being aware of the signs of stagnation and making an effort to combat it offers a chance to avoid falling into it, even though the battle may often be lost.
 
 **P.** **S.**
 
