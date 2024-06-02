@@ -14,7 +14,7 @@ In their youth, both Damon and Liam (further, I will just refer to Liam, but it 
 
 For Liam, there's not much to say. His post-Oasis projects are exactly the same as 90s Oasis. While he has matured and is no longer a young man in his twenties, his style seems to be trapped in that time and mentality. **His incapability to evolve has rendered him less relevant. His stagnation serves as a warning against the dangers of clinging too tightly to one’s past glories.** This stagnation is quite dreadful. I'd say it's one of my worst fears in life, aside from the more basic ones.
 
-It's hard to say if Liam could have done better but chose not to. It's more likely that he simply couldn't. **This also emphasizes the deception that two figures can be mistakenly thought to belong to the same league initially, when in reality they are entirely different beasts** (deserves a separate post).
+It's hard to say if Liam could have done better. It's more likely that he simply couldn't. **This also emphasizes the deception that two figures can be mistakenly thought to belong to the same league initially, when in reality they are entirely different beasts** (deserves a separate post).
 
 Somewhat cliché but crucial to internalize, the main observation is that to remain relevant, one must consistently explore new creative paths. This principle applies not only to artists but also to anyone striving for lasting success and growth in their field. Though, I'm not sure exactly how one should apply this observation to their lives. However, being aware of the signs of stagnation and making an effort to combat it offers a chance to avoid falling into it, even though the battle may often be lost.
 
