@@ -6,23 +6,19 @@ description:
 ---
 
 
-In the 90s, the Britpop scene was dominated by two bands: Blur(lead by Damon) and Oasis(lead by Liam and Noel). The bands were rivals, as the media loved to portray them. Both bands were great, and their music defined an era. I loved them both (though Oasis slightly more), and their music filled a significant portion of my 'music-mindshare' in my late teenage years. Anyway, this post is not about my musical taste. What has been lingering in my mind lately is the interest in exploring the evolution of these musicians over the past decades. **The contrast of their paths offers a valuable lesson: the importance of continuous creation and exploration to remain relevant and interesting.**
+In the 90s, the Britpop scene was dominated by two bands: Blur(lead by Damon) and Oasis(lead by Liam and Noel). The bands were rivals, as the media loved to portray them. Both bands were great, and their music defined an era. I loved them both (though Oasis slightly more), and their music filled a significant portion of my 'music-mindshare' in my late teenage years. Anyway, this post is not about my musical taste. What has been lingering in my mind lately is the interest in exploring the evolution of these musicians over the past decades.
 
-In their youth, both Damon and Liam (further, I will just refer to Liam, but it applies to Noel as well) were at the top of their game. Albums like Blur's "Parklife", "Blur" and Oasis's "Definitely Maybe" and "(What's the Story) Morning Glory?" are classics that captured the spirit of the 90s.
+In their youth, both Damon and Liam (further, I will just refer to Liam, but it applies to Noel as well) were at the top of their game. Some of their songs are classics that captured the spirit of the 90s. But as time passed, the trajectories of these musicians diverged significantly. Damon continued to grow and explore, while Liam largely remained anchored to the style that brought him initial fame. 
 
-As time passed, the trajectories of these musicians diverged significantly. Damon continued to grow and explore, pushing the boundaries of his artistry, while Liam largely remained anchored to the style that brought him initial fame. 
+**To me, Damon embodies artistic and personal growth.** Post-Blur, he ventured into various musical landscapes. With the creation of Gorillaz, he fused rock, hip-hop, and electronic music, collaborating with artists across genres. Beyond Gorillaz, Damon explored different sounds and themes through other projects, his solo work, and even in today's Blur. His continuous drive to explore new artistic avenues keeps him relevant in the contemporary music.
 
-**Damon to me exemplifies artistic and personal growth.** Post-Blur, he ventured into various musical landscapes. With the creation of Gorillaz, he introduced a virtual band concept that fused rock, hip-hop, and electronic music, collaborating with artists across genres. Beyond Gorillaz, Damon explored different sounds and themes through other projects and his solo work. Even in Blur, Damon shows a willingness to reinvent and expand creative limits, keeping the band's music fresh and vibrant. His continuous drive to explore new artistic avenues keeps him at the forefront of contemporary music.
-
-In contrast, Liam's post-Oasis projects have not strayed far from the Oasis formula. This adherence to their original style, while nostalgic, highlights a lack of progression and has led to a sense of artistic stagnation. **Their incapability to evolve has rendered them less relevant. This stagnation serves as a warning against the dangers of clinging too tightly to one’s past glories.**
-
-Simply put, Damon's career shows how vital it is to keep creating and exploring. By always seeking new challenges, he remains a dynamic and influential figure in music. On the other hand, Liam's story warns of the dangers of staying the same. While their contributions to pop music are clear, their reluctance to evolve has limited their significance.
+For Liam, there's not much to say. His post-Oasis projects are exactly the same as 90s Oasis. While he has matured and is no longer a young man in his twenties, his style seems to be trapped in that time and mentality. **His incapability to evolve has rendered him less relevant. His stagnation serves as a warning against the dangers of clinging too tightly to one’s past glories.** This stagnation is quite dreadful. I'd say it's one of my worst fears in life, aside from the more basic ones.
 
 I'm not saying that Liam could have done better but chose not to. It's more likely that he simply couldn't. **This also emphasizes the deception that two figures can be mistakenly thought to belong to the same league initially, when in reality they are entirely different beasts** (deserves a separate post).
 
-Somewhat cliché but vital to internalize, the main takeaway is that to stay relevant and impactful, one needs to step out of their comfort zone, even if it means leaving behind past successes, and explore new creative paths. This applies not just to musicians and artists but to anyone aiming for lasting success and development in their field.
+Somewhat cliché but crucial to internalize, the main takeaway is that to remain relevant, one must consistently explore new creative paths. This principle applies not only to artists but also to anyone striving for lasting success and growth in their field.
 
-P. S.
+**P.** **S.**
 
 I could've chosen any other figures, as history is full of such cases, from science to art, and maybe even entire civilizations.
 
