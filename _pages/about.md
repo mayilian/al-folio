@@ -18,7 +18,11 @@ Hi, I'm David. I'm a software engineer @ AWS Amsterdam. This blog is a platform 
 
 **Elsewhere**
 
-[mayilian](https://github.com/mayilian) on GitHub; [lifeundbananas](https://www.instagram.com/lifeundbananas) on Instagram; [david](https://www.linkedin.com/in/david-mayilian-53b01561/) on Linkedin and [davidmailian](https://soundcloud.com/davidmailian) on SoundCloud
+[github](https://github.com/mayilian)
+[twitter](https://twitter.com/mayiliand)
+[linkedin](https://www.linkedin.com/in/davidmayilian)
+[instagram](https://www.instagram.com/lifeundbananas)
+[soundcloud](https://soundcloud.com/davidmailian)
 
 **Leave anonymous feedback**
 
