@@ -1,4 +1,14 @@
 source 'https://rubygems.org'
+
+gem 'base64'
+gem 'bigdecimal'
+gem 'csv'
+gem 'date'
+gem 'json'
+gem 'faraday', '~> 2.10'
+gem 'faraday-net_http'
+gem 'faraday-retry'
+gem 'stringio'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
